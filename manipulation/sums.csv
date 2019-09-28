@@ -1,503 +1,503 @@
 ,Events,Quantity,Price,Merchandise_Sales,Concession_Sales
-0,Weiner,48,383.75,0.0,127.5
-1,The BFG,161,1333.5,30.0,531.75
-2,The Lady from Shanghai,56,382.0,0.0,226.5
-3,The Killing,86,601.75,10.0,316.5
-4,Boy and the World,117,0.0,0.0,350.25
-5,Lobster,76,592.0,0.0,290.5
-6,Hunt for the Wilderpeople,731,5983.25,0.0,2093.25
-7,My Neighbor Totoro,458,1408.0,10.0,1468.75
-8,Tickled,266,2446.75,20.0,716.75
-9,The Sandlot,20,160.0,20.0,108.0
-10,Big,17,155.0,0.0,46.5
-11,Cafe Society,963,7919.75,80.0,2502.75
-12,Cape Fear,72,518.5,0.0,214.0
-13,Kirikou the Scorcess,94,0.0,0.0,214.0
-14,Kiss Me Deadly,80,566.0,0.0,239.0
-15,NYICFF Best of the Fest,134,0.0,0.0,336.75
-16,The Innocents,249,1936.25,0.0,574.25
-17,"Life, Animated",197,1708.0,0.0,472.75
-18,The Wailing,121,937.0,30.0,458.0
-19,Indignation,771,6189.5,40.0,1875.0
-20,Phantom of the Paradise,66,528.0,0.0,287.0
-21,Dog Day Afternoon,64,478.5,10.0,189.75
-22,Don't Think Twice,1009,8628.0,70.0,3171.75
-23,The Big Lebowski,198,1506.75,0.0,1031.0
-24,Willy Wonka & the Chocolate Factory,39,295.0,0.0,99.25
-25,One More Time with Feeling,78,775.5,20.0,305.75
-26,Multiple Maniacs,52,400.0,40.0,190.0
-27,Miss Sharon Jones!,53,447.0,140.0,446.0
-28,The Matrix,44,352.0,10.0,195.75
-29,Little Men,56,431.0,40.0,149.25
-30,Morris from America,68,598.25,20.0,153.0
-31,Chimes at Midnight,58,40.0,0.0,202.0
-32,Mia Madre,31,237.0,0.0,81.5
-33,The Beatles: Eight Days a Week - The Touring Years,747,6255.5,140.0,2838.0
-34,The Room,1733,13720.0,50.0,6117.75
-35,Eugene Onegin,52,727.5,0.0,96.0
-36,Time Bandits,73,687.0,0.0,239.0
-37,Lo and Behold: Reveries of the Connected World,89,742.5,20.0,200.5
-38,Ixcanul,59,573.5,0.0,197.0
-39,The Vessel,29,228.75,10.0,101.5
-40,Demon,72,568.0,20.0,303.5
-41,The People vs. Fritz Bauer,54,418.5,20.0,128.0
-42,Nise: The Heart of Madness,54,470.75,0.0,106.0
-43,The Birth of a Nation,323,2757.25,0.0,983.5
-44,Possession,75,600.0,40.0,279.0
-45,A Man Called Ove,735,5965.5,30.0,1994.0
-46,Rosemary's Baby,128,960.0,40.0,516.5
-47,National Theatre Live: The Threepenny Opera,31,461.5,0.0,72.0
-48,Devotion,3,24.0,0.0,18.0
-49,Denial,209,1673.25,0.0,1332.75
-50,The Rocky Horror Picture Show,2722,26974.0,20.0,8184.5
-51,Nosferatu + Live Score by the Invincible Czars,211,2418.0,20.0,742.5
-52,Edge of Seventeen,1,0.0,10.0,123.0
-53,Dawn of the Dead,32,256.0,10.0,185.0
-54,All Nite Movie Marathon,65,861.0,131.0,496.0
-55,Certain Women,215,1736.25,187.0,2449.5
-56,Gimme Danger,97,776.0,0.0,424.25
-57,K2 and the Invisible Footmen,3,9.75,20.0,67.0
-58,Moonlight,2212,18559.5,100.0,6259.75
-59,Loving,1459,12001.0,35.0,4322.75
-60,The Handmaiden,266,2150.0,0.0,866.75
-61,Starving the Beast,1,0.0,0.0,411.5
-62,Akira,323,2576.0,0.0,1176.0
-63,Children of Men,73,552.0,0.0,426.0
-64,Aquarius ,69,240.0,0.0,225.25
-65,Manchester by the Sea,1299,10706.75,83.0,3966.75
-66,Mad Max: Fury Road,81,405.0,10.0,413.25
-67,The Muppet Christmas Carol,55,422.25,0.0,213.5
-68,Lion,766,6211.5,80.0,2890.25
-69,Elle,124,1048.5,30.0,282.75
-70,Jackie,1892,15612.25,110.0,5892.5
-71,The Phantom of the Opera,124,1488.0,40.0,460.0
-72,Blade Runner,359,2858.0,20.0,1375.0
-73,Cameraperson,12,120.0,0.0,158.5
-74,Arrival,179,1391.75,10.0,470.75
-75,Get Out,335,672.0,20.0,1171.0
-76,The Oscar Nominated Short Films 2017: Animation,733,6284.5,50.0,1611.0
-77,The Oscar Nominated Short Films 2017: Live Action,415,3366.5,0.0,919.75
-78,Punch-Drunk Love,27,200.0,0.0,48.0
-79,The Oscar Nominated Short Films 2017: Documentary,120,1006.75,0.0,291.5
-80,Casablanca,564,5110.0,0.0,1919.75
-81,Paterson,888,7162.0,30.0,2477.25
-82,Daughters of the Dust,85,743.25,0.0,258.5
-83,Silence,3,25.75,0.0,0.0
-84,I Am Not Your Negro,1183,9954.25,40.0,3038.25
-85,No Man's Land,91,1437.0,0.0,249.75
-86,The Salesman,260,2132.0,0.0,1080.25
-87,Neruda,84,540.0,0.0,205.25
-88,A United Kingdom,505,4134.75,50.0,1376.75
-89,Cooley High,11,94.0,0.0,52.5
-90,Kedi,1009,8334.5,60.0,2901.5
-91,Toni Erdmann,82,611.25,0.0,173.5
-92,Blade,36,324.0,0.0,146.0
-93,The Lure,163,1460.25,20.0,655.0
-94,Ocean Waves,77,608.25,0.0,155.0
-95,Mountainfilm 2017,245,3010.0,10.0,701.5
-96,Our Heavenly Bodies,59,590.0,0.0,169.5
-97,The Zookeeper's Wife,1081,8814.25,10.0,3098.0
-98,Black Girl,70,628.0,10.0,191.75
-99,Wild & Scenic Film Festival 2017,172,2030.0,0.0,533.75
-100,Donnie Darko,336,2648.0,30.0,1096.5
-101,Tony Conrad: Completely in the Present,38,304.0,20.0,91.0
-102,T2 Trainspotting,68,575.0,30.0,628.5
-103,Space Jam,122,971.25,20.0,337.75
-104,The Lost City of Z,542,4539.5,20.0,2550.5
-105,The Void,130,1040.0,0.0,516.5
-106,Cairo in One Breath,74,692.0,0.0,105.0
-107,Frantz,111,879.5,0.0,256.5
-108,Colossal,253,2238.0,0.0,1136.0
-109,Alive and Kicking,67,598.25,0.0,86.5
-110,Sonita,58,568.0,0.0,99.0
-111,Norman,651,5291.25,0.0,1706.0
-112,Twister,58,464.0,0.0,253.75
-113,The Mulberry House,37,364.0,0.0,58.75
-114,Twin Peaks: Fire Walk with Me ,111,888.0,0.0,458.5
-115,What Ever Happened to Baby Jane?,71,657.25,0.0,290.75
-116,The Lovers,454,3729.0,10.0,1266.5
-117,Your Name.,840,6617.0,0.0,1957.75
-118,Deconstructing the Beatles' Sgt. Pepper,68,672.0,0.0,155.25
-119,Mr. Gaga,62,614.0,20.0,134.75
-120,The Son of Joseph,41,120.0,0.0,72.25
-121,The Handmaid's Tale,30,240.0,0.0,63.0
-122,My Cousin Rachel,610,4965.25,40.0,1812.25
-123,The 18th Annual Animation Show of Shows,95,896.0,10.0,183.75
-124,Stefan Zweig: Farewell to Europe,99,984.0,0.0,159.25
-125,A Quiet Passion,422,3310.25,10.0,872.0
-126,Indiana Jones and the Last Crusade,161,1272.5,50.0,564.25
-127,One Week and a Day,94,932.0,0.0,326.75
-128,Warehoused,21,210.0,0.0,52.5
-129,Belladonna of Sadness,74,568.0,0.0,227.5
-130,"I, Daniel Blake",137,1142.75,0.0,252.5
-131,Logan,112,560.0,0.0,389.25
-132,Keep Quiet,34,336.0,0.0,38.0
-133,The Ornithologist,3,0.0,0.0,182.75
-134,Batman: The Movie,146,1168.0,10.0,710.25
-135,The Beguiled,1068,8883.5,10.0,3565.5
-136,The Bad Batch,61,488.0,0.0,222.0
-137,The Secret World of Arrietty,22,0.0,0.0,342.5
-138,To Be Or Not to Be,86,840.0,0.0,168.0
-139,Jurassic Park,66,528.0,50.0,241.5
-140,The Red Turtle,12,0.0,0.0,245.0
-141,Terminal Island,12,60.0,0.0,56.5
-142,The Big Sick,1091,9145.25,20.0,2884.75
-143,A Hard Day's Night,71,560.0,0.0,200.5
-144,Longing and Belonging: Live Action Short Films,55,0.0,0.0,85.5
-145,Stop Making Sense,162,1574.0,0.0,654.75
-146,The Little Hours,187,1723.0,0.0,605.0
-147,Zarafa,119,0.0,0.0,254.25
-148,A Ghost Story,411,3540.75,30.0,1118.25
-149,Endless Poetry,110,1010.5,10.0,276.5
-150,The Kid,58,0.0,10.0,272.5
-151,The Hero,123,963.75,0.0,761.5
-152,Beatriz at Dinner,144,1188.25,0.0,461.5
-153,Deconstructing the Beatles' Revolver,43,426.0,0.0,81.5
-154,The Friends of Eddie Coyle,24,238.0,0.0,107.5
-155,Monterey Pop,77,744.0,0.0,194.0
-156,Lady Macbeth,301,2456.75,10.0,1034.5
-157,Landline,60,531.0,0.0,167.5
-158,The Night of the Hunter,58,544.25,0.0,157.0
-159,Harvey,77,754.0,0.0,257.5
-160,Raw,102,0.0,40.0,346.25
-161,Step,163,1270.75,40.0,444.5
-162,Alien,146,1120.0,0.0,587.5
-163,In Transit,89,480.0,20.0,185.0
-164,The Love Witch,101,0.0,0.0,352.0
-165,Menashe,233,1910.5,20.0,526.75
-166,Lemon,22,185.75,0.0,107.5
-167,The Treasure of the Sierra Madre,46,389.5,0.0,117.0
-168,A Goofy Movie,218,0.0,0.0,680.5
-169,The Trip to Spain,198,1623.75,0.0,511.0
-170,The Texas Chain Saw Massacre,121,952.0,10.0,433.25
-171,Stalker,198,1970.0,0.0,637.0
-172,Whose Streets?,63,575.0,0.0,147.25
-173,Marjorie Prime,188,1507.5,0.0,432.0
-174,Labyrinth,167,1256.0,0.0,696.75
-175,Grease,58,500.0,0.0,135.5
-176,Solaris,138,1340.0,0.0,476.5
-177,Mortal Kombat,152,0.0,0.0,543.75
-178,Columbus,412,3336.75,20.0,978.75
-179,Ancien and the Magic Tablet,123,1033.5,0.0,421.0
-180,Hard to Be a God,66,640.0,0.0,199.5
-181,The Nutty Professor,13,92.25,0.0,32.0
-182,The Clan,44,384.0,50.0,145.0
-183,Chavela,76,671.5,0.0,218.5
-184,Santa Sangre,97,909.0,0.0,296.25
-185,The Book of Life,36,0.0,0.0,100.5
-186,Made In Cuba: Short Film Program,61,531.0,0.0,129.5
-187,The Second Mother,74,647.0,0.0,109.0
-188,Rosa Chumbe,30,266.5,0.0,66.75
-189,The Club,51,450.0,0.0,102.5
-190,Dolores,149,1228.0,0.0,420.0
-191,Viceroy's House,264,2100.5,20.0,824.0
-192,National Theatre Live: Yerma,30,505.5,0.0,33.5
-193,An Evening With Linnea Quigley,66,985.0,20.0,455.25
-194,"Found Footage Festival, Vol. 8",108,1060.0,20.0,404.5
-195,Victoria and Abdul,1510,11972.5,40.0,3844.0
-196,Eraserhead,117,880.0,60.0,360.5
-197,Deconstructing the Beatles' White Album,40,368.5,0.0,87.5
-198,Happy Death Day,246,0.0,0.0,547.0
-199,All-Nite Horror Marathon V,73,1444.0,80.0,464.0
-200,Tales From The Hood,26,176.0,0.0,136.0
-201,Dawson City: Frozen Time,63,290.0,0.0,221.5
-202,Ernest Scared Stupid,31,0.0,0.0,104.0
-203,Henry: Portrait of a Serial Killer,43,320.0,0.0,159.0
-204,Flower and Sword,51,1020.0,0.0,55.5
-205,Dr. Jekyll and Mr. Hyde,64,748.0,0.0,163.0
-206,Loving Vincent,1961,15845.25,40.0,5250.5
-207,George A. Romero Double Feature,27,276.0,0.0,166.5
-208,Smart 'n Spooky Kids,187,0.0,0.0,503.25
-209,Night of the Living Dead,30,240.0,50.0,128.0
-210,Faces Places,149,1211.5,0.0,322.25
-211,I Am Cuba,139,0.0,0.0,396.0
-212,Everglades of the North,246,0.0,0.0,436.0
-213,The Florida Project,731,6174.75,20.0,2134.25
-214,Ex Libris: The New York Public Library,104,430.0,0.0,199.25
-215,Novitiate,110,797.5,10.0,535.5
-216,The Killing of a Sacred Deer,154,1387.0,0.0,530.75
-217,Moses and Aaron,7,0.0,0.0,54.5
-218,"Three BIllboards Outside Ebbing, Missouri",1182,9744.0,20.0,3798.25
-219,Black Clover,28,242.0,0.0,53.0
-220,National Theatre Live: Follies,63,1090.0,0.0,177.0
-221,Gremlins,43,312.0,0.0,228.5
-222,Lady Bird,626,5200.75,30.0,2138.0
-223,The Umbrellas of Cherbourg,67,570.0,0.0,222.25
-224,Darkest Hour,917,7378.75,40.0,2795.25
-225,The Nutcracker (NYC Ballet),54,610.0,0.0,142.5
-226,Tom of Finland,180,1506.75,10.0,583.0
-227,Selma,15,143.25,0.0,65.5
-228,Phantom Thread,941,7728.25,60.0,2629.0
-229,Taxi Driver,56,448.0,40.0,227.75
-230,Wendy and Lucy,57,511.0,0.0,117.0
-231,Mary and the Witch's Flower,520,4433.5,10.0,1319.0
-232,On the Beach at Night Alone,52,431.5,30.0,133.5
-233,The Shape of Water,1681,13971.5,75.0,5076.25
-234,Monty Python and the Holy Grail,79,679.5,0.0,319.5
-235,Tommy,20,136.0,0.0,72.0
-236,Rollerball,16,104.0,0.0,68.5
-237,Gattaca,110,989.0,0.0,296.5
-238,The Wound,70,600.75,10.0,204.5
-239,Ex Machina,70,622.5,0.0,213.75
-240,Girlhood,16,148.25,0.0,61.0
-241,The Oscar Nominated Short Films 2018: Animation,287,2226.75,0.0,474.0
-242,The Oscar Nominated Short Films 2018: Live Action,294,2310.75,10.0,728.5
-243,Space is the Place,36,248.0,10.0,132.5
-244,The Oscar Nominated Short Films 2018: Documentary,243,1964.75,0.0,542.25
-245,Oscar Trivia Night,60,420.0,0.0,398.5
-246,Close Encounters of the Third Kind,52,453.5,10.0,232.5
-247,Tell Them We Are Rising: The Story of Black Colleges and Universities,33,254.0,0.0,117.5
-248,In the Fade,135,1131.25,0.0,474.0
-249,Have A Nice Day (Hao ji le),46,336.0,0.0,69.0
-250,Empire of the Ants,36,282.5,0.0,159.0
-251,Have a Nice Day,27,260.25,0.0,39.0
-252,Femme Frontera Filmmaker Showcase,49,421.0,0.0,154.75
-253,Film Stars Don't Die in Liverpool,212,1759.5,40.0,578.25
-254,Dirty Dancing,18,128.0,0.0,56.5
-255,Flashdance,10,72.0,0.0,32.5
-256,Robot & Frank,29,222.5,10.0,68.0
-257,A Fantastic Woman,323,2781.5,20.0,965.0
-258,Obit.,56,330.0,0.0,189.0
-259,The Party,206,1781.75,0.0,634.25
-260,"I, Tonya",158,1220.75,0.0,511.0
-261,A Matter of Life and Death,44,330.5,0.0,170.75
-262,The Insult,146,1250.5,0.0,369.75
-263,Blade Runner 2049,131,1024.0,0.0,498.75
-264,The 19th Annual Animation Show of Shows,88,741.5,0.0,198.5
-265,Bombshell: The Hedy Lamarr Story,205,1707.5,10.0,540.25
-266,Blockers,1,0.0,0.0,475.25
-267,Leaning Into the Wind: Andy Goldsworthy,121,1002.5,10.0,412.25
-268,Thoroughbreds,248,2236.25,20.0,859.75
-269,The Grand Budapest Hotel,246,1240.0,20.0,1008.5
-270,Truth or Dare,5,0.0,0.0,344.75
-271,Isle of Dogs,1983,17428.5,50.0,7193.0
-272,Before We Vanish,68,520.0,20.0,214.75
-273,Beyond the Valley of the Dolls,47,344.0,0.0,166.25
-274,The Passion of Joan of Arc,45,372.5,0.0,107.25
-275,Superman,30,223.5,0.0,172.25
-276,Suspiria (1977),122,1151.0,0.0,483.75
-277,Lean on Pete,565,4858.25,70.0,1651.5
-278,The Texas Chainsaw Massacre 2,38,272.0,0.0,120.75
-279,Amadeus: The Director's Cut,100,886.0,0.0,312.75
-280,Brain Damage,23,160.0,0.0,109.75
-281,Annihilation,197,1621.0,30.0,714.25
-282,You Were Never Really Here,225,1969.0,20.0,759.25
-283,All the Queen's Horses,278,2295.25,0.0,566.25
-284,El Mar La Mar,12,90.0,0.0,53.5
-285,RBG,2381,20417.25,50.0,6503.25
-286,The Endless,99,830.5,10.0,338.5
-287,Carmen Jones,38,292.0,0.0,143.5
-288,The Death of Stalin,486,4230.25,30.0,1635.5
-289,Revenge,58,465.25,20.0,203.25
-290,Filmworker,39,200.0,0.0,197.0
-291,Disobedience,193,1683.0,0.0,542.5
-292,The Black Cat,22,152.0,0.0,80.25
-293,Oh Lucy!,92,769.5,0.0,181.25
-294,First Reformed,999,8623.25,40.0,3336.5
-295,Blue Collar,37,264.0,0.0,108.5
-296,All That Heaven Allows,36,303.25,0.0,106.25
-297,Scarlet Diva,8,48.0,0.0,32.75
-298,Rogers Park,56,484.0,0.0,203.0
-299,Won't You Be My Neighbor?,3240,28367.25,110.0,11155.5
-300,How to Talk to Girls at Parties,62,472.0,10.0,216.5
-301,Jaws: The Revenge,14,88.0,0.0,59.0
-302,Kiki's Delivery Service,102,768.0,20.0,685.25
-303,Belle De Jour,58,490.75,20.0,189.5
-304,Gadget Girls & ’63 Boycott w/ Risé Sanders-Weir & Gordon Quinn,20,138.0,0.0,75.75
-305,Sustainable,1,0.0,0.0,256.0
-306,Sorry to Bother You,1284,11298.75,50.0,4897.0
-307,McKellen: Playing the Part,41,160.0,0.0,122.75
-308,Cemetery Without Crosses,13,104.0,0.0,70.25
-309,Deconstructing the Birth of the Beatles,49,454.0,0.0,221.0
-310,Three Identical Strangers,1402,12114.5,750.0,4408.0
-311,Damsel,59,451.25,0.0,178.25
-312,Ghost Stories,104,776.0,0.0,411.75
-313,Yellow Submarine,199,1685.25,0.0,703.25
-314,Minding the Gap,35,267.25,0.0,79.75
-315,BlacKkKlansman,1719,14936.25,10.0,5806.0
-316,Do the Right Thing,50,392.0,10.0,194.0
-317,Ali: Fear Eats The Soul,27,204.75,0.0,136.5
-318,Nancy,27,168.0,0.0,63.0
-319,The Atomic Cafe,47,290.0,0.0,205.0
-320,The Ranger,18,0.0,0.0,89.0
-321,Hot Summer Nights,29,200.0,20.0,158.25
-322,More Blood!,2,0.0,0.0,34.0
-323,A Quiet Place,158,1234.5,20.0,506.5
-324,Trespassing Bergman,13,70.0,0.0,63.25
-325,Summer with Monika,49,377.25,0.0,117.5
-326,The Gospel According to André,31,251.0,0.0,93.25
-327,Blindspotting,207,1763.0,10.0,656.5
-328,Summer of 84,30,208.0,0.0,102.0
-329,Grace Jones: Bloodlight and Bami,30,216.5,0.0,108.25
-330,Persona,82,694.75,0.0,221.75
-331,The Miseducation of Cameron Post,247,2140.75,0.0,760.0
-332,Madeline's Madeline,19,137.75,0.0,79.25
-333,Marlina the Murderer in Four Acts,42,319.75,0.0,106.25
-334,Skate Kitchen,29,241.25,0.0,169.0
-335,Fanny and Alexander,44,349.5,0.0,76.75
-336,Deconstructing the Beatles: 1963 Yeah! Yeah! Yeah!,23,219.75,0.0,56.75
-337,The Wife,858,7159.25,0.0,2557.25
-338,Deep Red,52,399.0,0.0,219.75
-339,Foreign Body,19,90.0,15.0,28.75
-340,Summer 1993,22,80.0,0.0,125.25
-341,Holiday Heart,37,297.75,0.0,157.75
-342,Let the Corpses Tan,19,136.0,0.0,61.5
-343,National Theatre Live: Julie,6,108.0,0.0,10.0
-344,Mandy,179,1439.5,30.0,819.75
-345,The Shocktober Film Festival,21,291.0,0.0,82.75
-346,"Juliet, Naked",302,2599.75,15.0,1089.5
-347,First Man,2,0.0,0.0,579.5
-348,Andrei Rublev,41,357.25,0.0,137.0
-349,Blaze,98,839.75,15.0,477.75
-350,Ganja & Hess,9,40.0,10.0,47.0
-351,All-Nite Horror Marathon VI,26,420.0,20.0,205.25
-352,McQueen,9,30.0,0.0,21.0
-353,This Is Home: A Refugee Story,24,204.25,0.0,33.75
-354,Prom Night,19,120.0,0.0,88.75
-355,The Old Man & the Gun,1295,10771.75,10.0,4476.5
-356,Phantasm,28,200.0,0.0,125.5
-357,Mi vida dentro,32,260.0,0.0,84.5
-358,Bones,3,16.0,0.0,28.25
-359,The Blob (1988),25,184.0,55.0,90.0
-360,The Howling,9,64.0,0.0,37.5
-361,Bisbee '17,43,363.25,0.0,139.0
-362,Halloween (1978),93,744.0,0.0,389.0
-363,Free Solo,653,5610.5,0.0,2532.0
-364,The Fog,55,416.0,0.0,201.75
-365,Bicycle Thieves,50,391.25,10.0,137.75
-366,Time for Ilhan,12,83.5,0.0,53.75
-367,The Guilty,143,1192.5,0.0,484.25
-368,The Bird with the Crystal Plumage,32,232.0,0.0,118.5
-369,Studio 54,48,407.25,10.0,891.5
-370,Saving Brinton,32,296.0,0.0,113.25
-371,Can You Ever Forgive Me?,915,7850.0,0.0,3275.5
-372,Velvet Goldmine,16,104.0,0.0,53.25
-373,The Exorcist,21,136.0,0.0,127.0
-374,"Monrovia, Indiana",24,70.0,0.0,86.25
-375,CatVideoFest 2018,290,2509.5,0.0,746.0
-376,Wildlife,319,2674.5,30.0,889.0
-377,Hereditary,83,632.0,0.0,350.25
-378,Mirai,149,1230.5,0.0,332.75
-379,Suspiria (2018),322,2643.0,10.0,1223.0
-380,Butch Cassidy and the Sundance Kid,46,377.75,0.0,187.75
-381,"A Bread Factory, Part One",30,60.0,0.0,110.5
-382,Border,158,1337.25,0.0,845.0
-383,Roma,494,4130.75,20.0,1117.75
-384,Sex Work Activism: Body Politics and Human Rights,1,0.0,0.0,105.25
-385,"A Bread Factory, Part Two",30,50.0,30.0,99.5
-386,Mary Queen of Scots,741,6269.0,35.0,2406.0
-387,Anna and the Apocalypse,63,488.0,0.0,350.5
-388,Maria by Callas,118,925.5,0.0,297.5
-389,At Eternity's Gate,732,6132.25,20.0,1829.25
-390,The Clovehitch Killer,52,384.0,0.0,175.0
-391,If Beale Street Could Talk,849,7052.5,20.0,3147.0
-392,Don’t Look Now,39,272.0,0.0,93.25
-393,A League of Their Own,44,417.0,0.0,263.75
-394,Why Don’t You Play in Hell?,21,144.0,0.0,86.5
-395,L’Atalante,28,213.5,0.0,82.75
-396,Found Footage Festival: Cherished Gems,193,2056.0,0.0,701.25
-397,Shoplifters,336,2804.5,30.0,811.0
-398,Burning,83,686.75,0.0,277.25
-399,Halloween (2018),23,141.25,0.0,55.0
-400,I Am Not a Witch,19,60.0,0.0,59.0
-401,Police Story,56,387.5,20.0,286.25
-402,The Favourite,725,6160.75,0.0,2879.5
-403,Mississippi Masala,6,0.0,0.0,192.5
-404,The Oscar Nominated Short Films 2019: Live Action,254,2116.75,0.0,856.5
-405,Groundhog Day,26,208.0,0.0,159.75
-406,2019 Oscar Nominated Short Films: Animation,342,2822.0,20.0,729.25
-407,The Oscar Nominated Short Films 2019: Documentary,143,1143.0,0.0,369.25
-408,Mass Incarceration: An Animated Series,1,0.0,0.0,188.5
-409,Thelma & Louise,24,216.75,0.0,103.25
-410,Capernaum,202,1701.75,10.0,568.5
-411,Audition,68,488.0,0.0,240.75
-412,Cold War,397,3410.5,0.0,1295.25
-413,Candyman,31,224.0,10.0,162.75
-414,R.S.,102,1530.0,0.0,146.5
-415,After Auschwitz,89,790.0,60.0,273.75
-416,Stan & Ollie,129,961.75,0.0,486.0
-417,They Shall Not Grow Old,392,3470.75,0.0,1302.75
-418,Science Fair,40,300.25,0.0,159.25
-419,The Cakemaker,84,710.0,0.0,254.5
-420,Meeting the Man: James Baldwin in Paris / Ornette: Made in America,12,40.0,0.0,57.5
-421,Zama,33,283.25,0.0,74.75
-422,Jimi Hendrix Electric Church,78,645.5,35.0,374.0
-423,Hotel by the River,27,182.0,0.0,76.5
-424,"Ruben Brandt, Collector",74,564.0,0.0,243.5
-425,The Heiresses,47,402.0,20.0,122.0
-426,Destroyer,40,319.5,0.0,224.0
-427,Speak Up,4,26.25,0.0,24.25
-428,Birds of Passage,47,342.75,0.0,154.25
-429,Killer of Sheep,24,178.75,0.0,79.25
-430,The United States of Autism,39,380.0,20.0,80.25
-431,Woman at War,95,798.5,0.0,339.25
-432,Transit,73,618.0,10.0,286.0
-433,Slice,27,192.0,0.0,139.75
-434,Shalom Bollywood: The Untold Story of Indian Cinema,93,870.0,0.0,214.0
-435,The Aftermath,310,2611.5,20.0,1080.25
-436,Dreaming of a Jewish Christmas,72,600.0,0.0,152.75
-437,Mountainfilm 2019,219,2630.0,0.0,921.0
-438,Nausicaä of the Valley of the Wind,161,1470.5,0.0,541.5
-439,The Beaches of Agnès,23,205.5,0.0,81.0
-440,Giant Little Ones,35,280.5,0.0,129.25
-441,Apollo 11,169,1418.75,0.0,1321.75
-442,Maximum Overdrive,42,312.0,0.0,243.75
-443,Retablo,27,216.25,0.0,35.5
-444,Ruben Blades is Not My Name,10,92.0,0.0,0.0
-445,Satan & Adam,7,10.0,0.0,15.5
-446,Amazing Grace,477,4064.0,10.0,1691.5
-447,Rubber,60,448.0,0.0,316.25
-448,Buy Me a Gun,17,127.5,0.0,26.0
-449,Todo el año es navidad,10,76.5,0.0,29.5
-450,High Life ,72,580.75,0.0,239.75
-451,Christine,22,152.0,0.0,61.0
-452,Boyz n the Hood,15,115.75,0.0,45.0
-453,Mary Magdalene,120,1019.25,0.0,446.75
-454,Rafiki,64,544.5,10.0,842.25
-455,Long Day's Journey Into Night,68,579.5,10.0,894.5
-456,Wild Nights with Emily,132,1071.0,0.0,467.0
-457,Hagazussa,39,272.0,0.0,140.5
-458,The Man Who Killed Don Quixote,117,983.75,10.0,439.75
-459,Red Joan,282,2269.75,10.0,891.75
-460,Brazil,45,328.0,0.0,208.25
-461,Bike Movie Night,4,40.0,0.0,200.0
-462,Little Woods,15,50.0,0.0,72.0
-463,Meeting Gorbachev,116,856.0,0.0,306.5
-464,Shadow,105,910.5,0.0,370.25
-465,Okko’s Inn,38,292.75,0.0,157.5
-466,Ask Dr. Ruth,37,310.5,0.0,133.0
-467,The Biggest Little Farm,172,1471.0,0.0,459.0
-468,Hail Satan?,129,1037.5,0.0,477.5
-469,Crooklyn,12,79.5,0.0,82.5
-470,Too Late to Die Young ,60,494.75,20.0,186.0
-471,Non-Fiction ,109,908.25,0.0,355.75
-472,Polyester ,33,208.0,0.0,182.25
-473,Before Night Falls,9,30.0,20.0,5.5
-474,Pasolini,41,328.0,10.0,112.25
-475,All Is True,178,1490.5,0.0,419.0
-476,Booksmart,273,2287.5,0.0,940.75
-477,Plus One,41,304.0,0.0,186.0
-478,Late Night,166,1363.0,0.0,615.25
-479,Tangerine,6,48.0,0.0,27.25
-480,Midsommar,554,4931.25,50.0,2530.75
-481,Climax,34,256.0,0.0,133.5
-482,Paddington 2,90,0.0,0.0,174.25
-483,Tito and the Birds,83,0.0,0.0,228.5
-484,The River and the Wall,164,1469.25,0.0,440.75
-485,The Last Black Man in San Francisco,666,5744.75,50.0,2146.25
-486,Dilili in Paris,42,0.0,0.0,118.25
-487,The Big Bad Fox and Other Tales…,87,0.0,0.0,183.75
-488,Ophelia,75,561.75,0.0,276.25
-489,Pavarotti,455,3716.0,0.0,894.75
-490,American Woman,142,1078.75,0.0,418.0
-491,Liyana,68,0.0,0.0,148.0
-492,Sword of Trust,83,459.5,0.0,319.0
-493,Echo In The Canyon,227,1808.0,0.0,699.25
-494,The Dead Don't Die,117,952.25,0.0,570.75
-495,The Farewell,510,4322.25,0.0,1497.5
-496,Pet Sematary,26,192.0,0.0,118.75
-497,Maiden,159,1293.25,0.0,382.25
-498,A Faithful Man ,19,90.0,0.0,36.0
-499,Luce,23,186.5,0.0,86.0
-500,Toni Morrison: The Pieces I am ,69,578.5,0.0,140.25
-501,The Nightingale,35,240.0,0.0,101.0
+0,Weiner,48,383.75,0,127.5
+2,The Lady from Shanghai,56,382,0,226.5
+4,Boy and the World,117,0,0,350.25
+5,Lobster,76,592,0,290.5
+6,Hunt for the Wilderpeople,731,5983.25,0,2093.25
+10,Big,17,155,0,46.5
+12,Cape Fear,72,518.5,0,214
+13,Kirikou the Scorcess,94,0,0,214
+14,Kiss Me Deadly,80,566,0,239
+15,NYICFF Best of the Fest,134,0,0,336.75
+16,The Innocents,249,1936.25,0,574.25
+17,"Life, Animated",197,1708,0,472.75
+20,Phantom of the Paradise,66,528,0,287
+23,The Big Lebowski,198,1506.75,0,1031
+24,Willy Wonka & the Chocolate Factory,39,295,0,99.25
+31,Chimes at Midnight,58,40,0,202
+32,Mia Madre,31,237,0,81.5
+35,Eugene Onegin,52,727.5,0,96
+36,Time Bandits,73,687,0,239
+38,Ixcanul,59,573.5,0,197
+42,Nise: The Heart of Madness,54,470.75,0,106
+43,The Birth of a Nation,323,2757.25,0,983.5
+47,National Theatre Live: The Threepenny Opera,31,461.5,0,72
+48,Devotion,3,24,0,18
+49,Denial,209,1673.25,0,1332.75
+56,Gimme Danger,97,776,0,424.25
+60,The Handmaiden,266,2150,0,866.75
+61,Starving the Beast,1,0,0,411.5
+62,Akira,323,2576,0,1176
+63,Children of Men,73,552,0,426
+64,Aquarius ,69,240,0,225.25
+67,The Muppet Christmas Carol,55,422.25,0,213.5
+73,Cameraperson,12,120,0,158.5
+77,The Oscar Nominated Short Films 2017: Live Action,415,3366.5,0,919.75
+78,Punch-Drunk Love,27,200,0,48
+79,The Oscar Nominated Short Films 2017: Documentary,120,1006.75,0,291.5
+80,Casablanca,564,5110,0,1919.75
+82,Daughters of the Dust,85,743.25,0,258.5
+83,Silence,3,25.75,0,0
+85,No Man's Land,91,1437,0,249.75
+86,The Salesman,260,2132,0,1080.25
+87,Neruda,84,540,0,205.25
+89,Cooley High,11,94,0,52.5
+91,Toni Erdmann,82,611.25,0,173.5
+92,Blade,36,324,0,146
+94,Ocean Waves,77,608.25,0,155
+96,Our Heavenly Bodies,59,590,0,169.5
+99,Wild & Scenic Film Festival 2017,172,2030,0,533.75
+105,The Void,130,1040,0,516.5
+106,Cairo in One Breath,74,692,0,105
+107,Frantz,111,879.5,0,256.5
+108,Colossal,253,2238,0,1136
+109,Alive and Kicking,67,598.25,0,86.5
+110,Sonita,58,568,0,99
+111,Norman,651,5291.25,0,1706
+112,Twister,58,464,0,253.75
+113,The Mulberry House,37,364,0,58.75
+114,Twin Peaks: Fire Walk with Me ,111,888,0,458.5
+115,What Ever Happened to Baby Jane?,71,657.25,0,290.75
+117,Your Name.,840,6617,0,1957.75
+118,Deconstructing the Beatles' Sgt. Pepper,68,672,0,155.25
+120,The Son of Joseph,41,120,0,72.25
+121,The Handmaid's Tale,30,240,0,63
+124,Stefan Zweig: Farewell to Europe,99,984,0,159.25
+127,One Week and a Day,94,932,0,326.75
+128,Warehoused,21,210,0,52.5
+129,Belladonna of Sadness,74,568,0,227.5
+130,"I, Daniel Blake",137,1142.75,0,252.5
+131,Logan,112,560,0,389.25
+132,Keep Quiet,34,336,0,38
+133,The Ornithologist,3,0,0,182.75
+136,The Bad Batch,61,488,0,222
+137,The Secret World of Arrietty,22,0,0,342.5
+138,To Be Or Not to Be,86,840,0,168
+140,The Red Turtle,12,0,0,245
+141,Terminal Island,12,60,0,56.5
+143,A Hard Day's Night,71,560,0,200.5
+144,Longing and Belonging: Live Action Short Films,55,0,0,85.5
+145,Stop Making Sense,162,1574,0,654.75
+146,The Little Hours,187,1723,0,605
+147,Zarafa,119,0,0,254.25
+151,The Hero,123,963.75,0,761.5
+152,Beatriz at Dinner,144,1188.25,0,461.5
+153,Deconstructing the Beatles' Revolver,43,426,0,81.5
+154,The Friends of Eddie Coyle,24,238,0,107.5
+155,Monterey Pop,77,744,0,194
+157,Landline,60,531,0,167.5
+158,The Night of the Hunter,58,544.25,0,157
+159,Harvey,77,754,0,257.5
+162,Alien,146,1120,0,587.5
+164,The Love Witch,101,0,0,352
+166,Lemon,22,185.75,0,107.5
+167,The Treasure of the Sierra Madre,46,389.5,0,117
+168,A Goofy Movie,218,0,0,680.5
+169,The Trip to Spain,198,1623.75,0,511
+171,Stalker,198,1970,0,637
+172,Whose Streets?,63,575,0,147.25
+173,Marjorie Prime,188,1507.5,0,432
+174,Labyrinth,167,1256,0,696.75
+175,Grease,58,500,0,135.5
+176,Solaris,138,1340,0,476.5
+177,Mortal Kombat,152,0,0,543.75
+179,Ancien and the Magic Tablet,123,1033.5,0,421
+180,Hard to Be a God,66,640,0,199.5
+181,The Nutty Professor,13,92.25,0,32
+183,Chavela,76,671.5,0,218.5
+184,Santa Sangre,97,909,0,296.25
+185,The Book of Life,36,0,0,100.5
+186,Made In Cuba: Short Film Program,61,531,0,129.5
+187,The Second Mother,74,647,0,109
+188,Rosa Chumbe,30,266.5,0,66.75
+189,The Club,51,450,0,102.5
+190,Dolores,149,1228,0,420
+192,National Theatre Live: Yerma,30,505.5,0,33.5
+197,Deconstructing the Beatles' White Album,40,368.5,0,87.5
+198,Happy Death Day,246,0,0,547
+200,Tales From The Hood,26,176,0,136
+201,Dawson City: Frozen Time,63,290,0,221.5
+202,Ernest Scared Stupid,31,0,0,104
+203,Henry: Portrait of a Serial Killer,43,320,0,159
+204,Flower and Sword,51,1020,0,55.5
+205,Dr. Jekyll and Mr. Hyde,64,748,0,163
+207,George A. Romero Double Feature,27,276,0,166.5
+208,Smart 'n Spooky Kids,187,0,0,503.25
+210,Faces Places,149,1211.5,0,322.25
+211,I Am Cuba,139,0,0,396
+212,Everglades of the North,246,0,0,436
+214,Ex Libris: The New York Public Library,104,430,0,199.25
+216,The Killing of a Sacred Deer,154,1387,0,530.75
+217,Moses and Aaron,7,0,0,54.5
+219,Black Clover,28,242,0,53
+220,National Theatre Live: Follies,63,1090,0,177
+221,Gremlins,43,312,0,228.5
+223,The Umbrellas of Cherbourg,67,570,0,222.25
+225,The Nutcracker (NYC Ballet),54,610,0,142.5
+227,Selma,15,143.25,0,65.5
+230,Wendy and Lucy,57,511,0,117
+234,Monty Python and the Holy Grail,79,679.5,0,319.5
+235,Tommy,20,136,0,72
+236,Rollerball,16,104,0,68.5
+237,Gattaca,110,989,0,296.5
+239,Ex Machina,70,622.5,0,213.75
+240,Girlhood,16,148.25,0,61
+241,The Oscar Nominated Short Films 2018: Animation,287,2226.75,0,474
+244,The Oscar Nominated Short Films 2018: Documentary,243,1964.75,0,542.25
+245,Oscar Trivia Night,60,420,0,398.5
+247,Tell Them We Are Rising: The Story of Black Colleges and Universities,33,254,0,117.5
+248,In the Fade,135,1131.25,0,474
+249,Have A Nice Day (Hao ji le),46,336,0,69
+250,Empire of the Ants,36,282.5,0,159
+251,Have a Nice Day,27,260.25,0,39
+252,Femme Frontera Filmmaker Showcase,49,421,0,154.75
+254,Dirty Dancing,18,128,0,56.5
+255,Flashdance,10,72,0,32.5
+258,Obit.,56,330,0,189
+259,The Party,206,1781.75,0,634.25
+260,"I, Tonya",158,1220.75,0,511
+261,A Matter of Life and Death,44,330.5,0,170.75
+262,The Insult,146,1250.5,0,369.75
+263,Blade Runner 2049,131,1024,0,498.75
+264,The 19th Annual Animation Show of Shows,88,741.5,0,198.5
+266,Blockers,1,0,0,475.25
+270,Truth or Dare,5,0,0,344.75
+273,Beyond the Valley of the Dolls,47,344,0,166.25
+274,The Passion of Joan of Arc,45,372.5,0,107.25
+275,Superman,30,223.5,0,172.25
+276,Suspiria (1977),122,1151,0,483.75
+278,The Texas Chainsaw Massacre 2,38,272,0,120.75
+279,Amadeus: The Director's Cut,100,886,0,312.75
+280,Brain Damage,23,160,0,109.75
+283,All the Queen's Horses,278,2295.25,0,566.25
+284,El Mar La Mar,12,90,0,53.5
+287,Carmen Jones,38,292,0,143.5
+290,Filmworker,39,200,0,197
+291,Disobedience,193,1683,0,542.5
+292,The Black Cat,22,152,0,80.25
+293,Oh Lucy!,92,769.5,0,181.25
+295,Blue Collar,37,264,0,108.5
+296,All That Heaven Allows,36,303.25,0,106.25
+297,Scarlet Diva,8,48,0,32.75
+298,Rogers Park,56,484,0,203
+301,Jaws: The Revenge,14,88,0,59
+304,Gadget Girls & ’63 Boycott w/ Risé Sanders-Weir & Gordon Quinn,20,138,0,75.75
+305,Sustainable,1,0,0,256
+307,McKellen: Playing the Part,41,160,0,122.75
+308,Cemetery Without Crosses,13,104,0,70.25
+309,Deconstructing the Birth of the Beatles,49,454,0,221
+311,Damsel,59,451.25,0,178.25
+312,Ghost Stories,104,776,0,411.75
+313,Yellow Submarine,199,1685.25,0,703.25
+314,Minding the Gap,35,267.25,0,79.75
+317,Ali: Fear Eats The Soul,27,204.75,0,136.5
+318,Nancy,27,168,0,63
+319,The Atomic Cafe,47,290,0,205
+320,The Ranger,18,0,0,89
+322,More Blood!,2,0,0,34
+324,Trespassing Bergman,13,70,0,63.25
+325,Summer with Monika,49,377.25,0,117.5
+326,The Gospel According to André,31,251,0,93.25
+328,Summer of 84,30,208,0,102
+329,Grace Jones: Bloodlight and Bami,30,216.5,0,108.25
+330,Persona,82,694.75,0,221.75
+331,The Miseducation of Cameron Post,247,2140.75,0,760
+332,Madeline's Madeline,19,137.75,0,79.25
+333,Marlina the Murderer in Four Acts,42,319.75,0,106.25
+334,Skate Kitchen,29,241.25,0,169
+335,Fanny and Alexander,44,349.5,0,76.75
+336,Deconstructing the Beatles: 1963 Yeah! Yeah! Yeah!,23,219.75,0,56.75
+337,The Wife,858,7159.25,0,2557.25
+338,Deep Red,52,399,0,219.75
+340,Summer 1993,22,80,0,125.25
+341,Holiday Heart,37,297.75,0,157.75
+342,Let the Corpses Tan,19,136,0,61.5
+343,National Theatre Live: Julie,6,108,0,10
+345,The Shocktober Film Festival,21,291,0,82.75
+347,First Man,2,0,0,579.5
+348,Andrei Rublev,41,357.25,0,137
+352,McQueen,9,30,0,21
+353,This Is Home: A Refugee Story,24,204.25,0,33.75
+354,Prom Night,19,120,0,88.75
+356,Phantasm,28,200,0,125.5
+357,Mi vida dentro,32,260,0,84.5
+358,Bones,3,16,0,28.25
+360,The Howling,9,64,0,37.5
+361,Bisbee '17,43,363.25,0,139
+362,Halloween (1978),93,744,0,389
+363,Free Solo,653,5610.5,0,2532
+364,The Fog,55,416,0,201.75
+366,Time for Ilhan,12,83.5,0,53.75
+367,The Guilty,143,1192.5,0,484.25
+368,The Bird with the Crystal Plumage,32,232,0,118.5
+370,Saving Brinton,32,296,0,113.25
+371,Can You Ever Forgive Me?,915,7850,0,3275.5
+372,Velvet Goldmine,16,104,0,53.25
+373,The Exorcist,21,136,0,127
+374,"Monrovia, Indiana",24,70,0,86.25
+375,CatVideoFest 2018,290,2509.5,0,746
+377,Hereditary,83,632,0,350.25
+378,Mirai,149,1230.5,0,332.75
+380,Butch Cassidy and the Sundance Kid,46,377.75,0,187.75
+381,"A Bread Factory, Part One",30,60,0,110.5
+382,Border,158,1337.25,0,845
+384,Sex Work Activism: Body Politics and Human Rights,1,0,0,105.25
+387,Anna and the Apocalypse,63,488,0,350.5
+388,Maria by Callas,118,925.5,0,297.5
+390,The Clovehitch Killer,52,384,0,175
+392,Don’t Look Now,39,272,0,93.25
+393,A League of Their Own,44,417,0,263.75
+394,Why Don’t You Play in Hell?,21,144,0,86.5
+395,L’Atalante,28,213.5,0,82.75
+396,Found Footage Festival: Cherished Gems,193,2056,0,701.25
+398,Burning,83,686.75,0,277.25
+399,Halloween (2018),23,141.25,0,55
+400,I Am Not a Witch,19,60,0,59
+402,The Favourite,725,6160.75,0,2879.5
+403,Mississippi Masala,6,0,0,192.5
+404,The Oscar Nominated Short Films 2019: Live Action,254,2116.75,0,856.5
+405,Groundhog Day,26,208,0,159.75
+407,The Oscar Nominated Short Films 2019: Documentary,143,1143,0,369.25
+408,Mass Incarceration: An Animated Series,1,0,0,188.5
+409,Thelma & Louise,24,216.75,0,103.25
+411,Audition,68,488,0,240.75
+412,Cold War,397,3410.5,0,1295.25
+414,R.S.,102,1530,0,146.5
+416,Stan & Ollie,129,961.75,0,486
+417,They Shall Not Grow Old,392,3470.75,0,1302.75
+418,Science Fair,40,300.25,0,159.25
+419,The Cakemaker,84,710,0,254.5
+420,Meeting the Man: James Baldwin in Paris / Ornette: Made in America,12,40,0,57.5
+421,Zama,33,283.25,0,74.75
+423,Hotel by the River,27,182,0,76.5
+424,"Ruben Brandt, Collector",74,564,0,243.5
+426,Destroyer,40,319.5,0,224
+427,Speak Up,4,26.25,0,24.25
+428,Birds of Passage,47,342.75,0,154.25
+429,Killer of Sheep,24,178.75,0,79.25
+431,Woman at War,95,798.5,0,339.25
+433,Slice,27,192,0,139.75
+434,Shalom Bollywood: The Untold Story of Indian Cinema,93,870,0,214
+436,Dreaming of a Jewish Christmas,72,600,0,152.75
+437,Mountainfilm 2019,219,2630,0,921
+438,Nausicaä of the Valley of the Wind,161,1470.5,0,541.5
+439,The Beaches of Agnès,23,205.5,0,81
+440,Giant Little Ones,35,280.5,0,129.25
+441,Apollo 11,169,1418.75,0,1321.75
+442,Maximum Overdrive,42,312,0,243.75
+443,Retablo,27,216.25,0,35.5
+444,Ruben Blades is Not My Name,10,92,0,0
+445,Satan & Adam,7,10,0,15.5
+447,Rubber,60,448,0,316.25
+448,Buy Me a Gun,17,127.5,0,26
+449,Todo el año es navidad,10,76.5,0,29.5
+450,High Life ,72,580.75,0,239.75
+451,Christine,22,152,0,61
+452,Boyz n the Hood,15,115.75,0,45
+453,Mary Magdalene,120,1019.25,0,446.75
+456,Wild Nights with Emily,132,1071,0,467
+457,Hagazussa,39,272,0,140.5
+460,Brazil,45,328,0,208.25
+461,Bike Movie Night,4,40,0,200
+462,Little Woods,15,50,0,72
+463,Meeting Gorbachev,116,856,0,306.5
+464,Shadow,105,910.5,0,370.25
+465,Okko’s Inn,38,292.75,0,157.5
+466,Ask Dr. Ruth,37,310.5,0,133
+467,The Biggest Little Farm,172,1471,0,459
+468,Hail Satan?,129,1037.5,0,477.5
+469,Crooklyn,12,79.5,0,82.5
+471,Non-Fiction ,109,908.25,0,355.75
+472,Polyester ,33,208,0,182.25
+475,All Is True,178,1490.5,0,419
+476,Booksmart,273,2287.5,0,940.75
+477,Plus One,41,304,0,186
+478,Late Night,166,1363,0,615.25
+479,Tangerine,6,48,0,27.25
+481,Climax,34,256,0,133.5
+482,Paddington 2,90,0,0,174.25
+483,Tito and the Birds,83,0,0,228.5
+484,The River and the Wall,164,1469.25,0,440.75
+486,Dilili in Paris,42,0,0,118.25
+487,The Big Bad Fox and Other Tales…,87,0,0,183.75
+488,Ophelia,75,561.75,0,276.25
+489,Pavarotti,455,3716,0,894.75
+490,American Woman,142,1078.75,0,418
+491,Liyana,68,0,0,148
+492,Sword of Trust,83,459.5,0,319
+493,Echo In The Canyon,227,1808,0,699.25
+494,The Dead Don't Die,117,952.25,0,570.75
+495,The Farewell,510,4322.25,0,1497.5
+496,Pet Sematary,26,192,0,118.75
+497,Maiden,159,1293.25,0,382.25
+498,A Faithful Man ,19,90,0,36
+499,Luce,23,186.5,0,86
+500,Toni Morrison: The Pieces I am ,69,578.5,0,140.25
+501,The Nightingale,35,240,0,101
+3,The Killing,86,601.75,10,316.5
+7,My Neighbor Totoro,458,1408,10,1468.75
+21,Dog Day Afternoon,64,478.5,10,189.75
+28,The Matrix,44,352,10,195.75
+39,The Vessel,29,228.75,10,101.5
+52,Edge of Seventeen,1,0,10,123
+53,Dawn of the Dead,32,256,10,185
+66,Mad Max: Fury Road,81,405,10,413.25
+74,Arrival,179,1391.75,10,470.75
+95,Mountainfilm 2017,245,3010,10,701.5
+97,The Zookeeper's Wife,1081,8814.25,10,3098
+98,Black Girl,70,628,10,191.75
+116,The Lovers,454,3729,10,1266.5
+123,The 18th Annual Animation Show of Shows,95,896,10,183.75
+125,A Quiet Passion,422,3310.25,10,872
+134,Batman: The Movie,146,1168,10,710.25
+135,The Beguiled,1068,8883.5,10,3565.5
+149,Endless Poetry,110,1010.5,10,276.5
+150,The Kid,58,0,10,272.5
+156,Lady Macbeth,301,2456.75,10,1034.5
+170,The Texas Chain Saw Massacre,121,952,10,433.25
+215,Novitiate,110,797.5,10,535.5
+226,Tom of Finland,180,1506.75,10,583
+231,Mary and the Witch's Flower,520,4433.5,10,1319
+238,The Wound,70,600.75,10,204.5
+242,The Oscar Nominated Short Films 2018: Live Action,294,2310.75,10,728.5
+243,Space is the Place,36,248,10,132.5
+246,Close Encounters of the Third Kind,52,453.5,10,232.5
+256,Robot & Frank,29,222.5,10,68
+265,Bombshell: The Hedy Lamarr Story,205,1707.5,10,540.25
+267,Leaning Into the Wind: Andy Goldsworthy,121,1002.5,10,412.25
+286,The Endless,99,830.5,10,338.5
+300,How to Talk to Girls at Parties,62,472,10,216.5
+315,BlacKkKlansman,1719,14936.25,10,5806
+316,Do the Right Thing,50,392,10,194
+327,Blindspotting,207,1763,10,656.5
+350,Ganja & Hess,9,40,10,47
+355,The Old Man & the Gun,1295,10771.75,10,4476.5
+365,Bicycle Thieves,50,391.25,10,137.75
+369,Studio 54,48,407.25,10,891.5
+379,Suspiria (2018),322,2643,10,1223
+410,Capernaum,202,1701.75,10,568.5
+413,Candyman,31,224,10,162.75
+432,Transit,73,618,10,286
+446,Amazing Grace,477,4064,10,1691.5
+454,Rafiki,64,544.5,10,842.25
+455,Long Day's Journey Into Night,68,579.5,10,894.5
+458,The Man Who Killed Don Quixote,117,983.75,10,439.75
+459,Red Joan,282,2269.75,10,891.75
+474,Pasolini,41,328,10,112.25
+339,Foreign Body,19,90,15,28.75
+346,"Juliet, Naked",302,2599.75,15,1089.5
+349,Blaze,98,839.75,15,477.75
+8,Tickled,266,2446.75,20,716.75
+9,The Sandlot,20,160,20,108
+25,One More Time with Feeling,78,775.5,20,305.75
+30,Morris from America,68,598.25,20,153
+37,Lo and Behold: Reveries of the Connected World,89,742.5,20,200.5
+40,Demon,72,568,20,303.5
+41,The People vs. Fritz Bauer,54,418.5,20,128
+50,The Rocky Horror Picture Show,2722,26974,20,8184.5
+51,Nosferatu + Live Score by the Invincible Czars,211,2418,20,742.5
+57,K2 and the Invisible Footmen,3,9.75,20,67
+72,Blade Runner,359,2858,20,1375
+75,Get Out,335,672,20,1171
+93,The Lure,163,1460.25,20,655
+101,Tony Conrad: Completely in the Present,38,304,20,91
+103,Space Jam,122,971.25,20,337.75
+104,The Lost City of Z,542,4539.5,20,2550.5
+119,Mr. Gaga,62,614,20,134.75
+142,The Big Sick,1091,9145.25,20,2884.75
+163,In Transit,89,480,20,185
+165,Menashe,233,1910.5,20,526.75
+178,Columbus,412,3336.75,20,978.75
+191,Viceroy's House,264,2100.5,20,824
+193,An Evening With Linnea Quigley,66,985,20,455.25
+194,"Found Footage Festival, Vol. 8",108,1060,20,404.5
+213,The Florida Project,731,6174.75,20,2134.25
+218,"Three BIllboards Outside Ebbing, Missouri",1182,9744,20,3798.25
+257,A Fantastic Woman,323,2781.5,20,965
+268,Thoroughbreds,248,2236.25,20,859.75
+269,The Grand Budapest Hotel,246,1240,20,1008.5
+272,Before We Vanish,68,520,20,214.75
+282,You Were Never Really Here,225,1969,20,759.25
+289,Revenge,58,465.25,20,203.25
+302,Kiki's Delivery Service,102,768,20,685.25
+303,Belle De Jour,58,490.75,20,189.5
+321,Hot Summer Nights,29,200,20,158.25
+323,A Quiet Place,158,1234.5,20,506.5
+351,All-Nite Horror Marathon VI,26,420,20,205.25
+383,Roma,494,4130.75,20,1117.75
+389,At Eternity's Gate,732,6132.25,20,1829.25
+391,If Beale Street Could Talk,849,7052.5,20,3147
+401,Police Story,56,387.5,20,286.25
+406,2019 Oscar Nominated Short Films: Animation,342,2822,20,729.25
+425,The Heiresses,47,402,20,122
+430,The United States of Autism,39,380,20,80.25
+435,The Aftermath,310,2611.5,20,1080.25
+470,Too Late to Die Young ,60,494.75,20,186
+473,Before Night Falls,9,30,20,5.5
+1,The BFG,161,1333.5,30,531.75
+18,The Wailing,121,937,30,458
+45,A Man Called Ove,735,5965.5,30,1994
+69,Elle,124,1048.5,30,282.75
+81,Paterson,888,7162,30,2477.25
+100,Donnie Darko,336,2648,30,1096.5
+102,T2 Trainspotting,68,575,30,628.5
+148,A Ghost Story,411,3540.75,30,1118.25
+222,Lady Bird,626,5200.75,30,2138
+232,On the Beach at Night Alone,52,431.5,30,133.5
+281,Annihilation,197,1621,30,714.25
+288,The Death of Stalin,486,4230.25,30,1635.5
+344,Mandy,179,1439.5,30,819.75
+376,Wildlife,319,2674.5,30,889
+385,"A Bread Factory, Part Two",30,50,30,99.5
+397,Shoplifters,336,2804.5,30,811
+59,Loving,1459,12001,35,4322.75
+386,Mary Queen of Scots,741,6269,35,2406
+422,Jimi Hendrix Electric Church,78,645.5,35,374
+19,Indignation,771,6189.5,40,1875
+26,Multiple Maniacs,52,400,40,190
+29,Little Men,56,431,40,149.25
+44,Possession,75,600,40,279
+46,Rosemary's Baby,128,960,40,516.5
+71,The Phantom of the Opera,124,1488,40,460
+84,I Am Not Your Negro,1183,9954.25,40,3038.25
+122,My Cousin Rachel,610,4965.25,40,1812.25
+160,Raw,102,0,40,346.25
+161,Step,163,1270.75,40,444.5
+195,Victoria and Abdul,1510,11972.5,40,3844
+206,Loving Vincent,1961,15845.25,40,5250.5
+224,Darkest Hour,917,7378.75,40,2795.25
+229,Taxi Driver,56,448,40,227.75
+253,Film Stars Don't Die in Liverpool,212,1759.5,40,578.25
+294,First Reformed,999,8623.25,40,3336.5
+34,The Room,1733,13720,50,6117.75
+76,The Oscar Nominated Short Films 2017: Animation,733,6284.5,50,1611
+88,A United Kingdom,505,4134.75,50,1376.75
+126,Indiana Jones and the Last Crusade,161,1272.5,50,564.25
+139,Jurassic Park,66,528,50,241.5
+182,The Clan,44,384,50,145
+209,Night of the Living Dead,30,240,50,128
+271,Isle of Dogs,1983,17428.5,50,7193
+285,RBG,2381,20417.25,50,6503.25
+306,Sorry to Bother You,1284,11298.75,50,4897
+480,Midsommar,554,4931.25,50,2530.75
+485,The Last Black Man in San Francisco,666,5744.75,50,2146.25
+359,The Blob (1988),25,184,55,90
+90,Kedi,1009,8334.5,60,2901.5
+196,Eraserhead,117,880,60,360.5
+228,Phantom Thread,941,7728.25,60,2629
+415,After Auschwitz,89,790,60,273.75
+22,Don't Think Twice,1009,8628,70,3171.75
+277,Lean on Pete,565,4858.25,70,1651.5
+233,The Shape of Water,1681,13971.5,75,5076.25
+11,Cafe Society,963,7919.75,80,2502.75
+68,Lion,766,6211.5,80,2890.25
+199,All-Nite Horror Marathon V,73,1444,80,464
+65,Manchester by the Sea,1299,10706.75,83,3966.75
+58,Moonlight,2212,18559.5,100,6259.75
+70,Jackie,1892,15612.25,110,5892.5
+299,Won't You Be My Neighbor?,3240,28367.25,110,11155.5
+54,All Nite Movie Marathon,65,861,131,496
+27,Miss Sharon Jones!,53,447,140,446
+33,The Beatles: Eight Days a Week - The Touring Years,747,6255.5,140,2838
+55,Certain Women,215,1736.25,187,2449.5
+310,Three Identical Strangers,1402,12114.5,0,4408
